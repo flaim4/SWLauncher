@@ -1,4 +1,4 @@
 # SWLauncher
 This is the official server launcher, designed for a fast and seamless gaming experience. Unlike universal installers, it offers only the latest builds for our project, all of which undergo preliminary testing for compatibility and stability.
 
-<img src="https://github.com/flaim4/SWLauncher/blob/main/SWLauncher.png?raw=true">
+<img src="https://raw.githubusercontent.com/flaim4/SWLauncher/refs/heads/main/SWLauncher.png">
